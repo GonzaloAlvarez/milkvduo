@@ -1,8 +1,9 @@
 <div align="center">
     <h1>
         <br>
-        <a href="#overview"><img height="130rem" src="https://raw.githubusercontent.com/GonzaloAlvarez/milkv/assets/photos/milkvduoboard.png"></a>
-        <a href="#overview">Milk V Duo</a>
+        <a href="#overview"><img height="130rem" src="https://github.com/GonzaloAlvarez/milkvduo/blob/main/assets/photos/milkvduoboard.png?raw=true"></a>
+        <br><br>
+        <a href="#overview">Milk V Duo Dev Board</a>
     </h1>
 </div>
 # Overview
